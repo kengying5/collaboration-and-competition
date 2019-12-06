@@ -1,4 +1,4 @@
-# # Deep-Reinforcement-Learning: Collaboration and Competition
+# Deep-Reinforcement-Learning: Collaboration and Competition
 
 ### Introduction
 
